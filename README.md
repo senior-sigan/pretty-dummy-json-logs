@@ -17,5 +17,5 @@ Should be compatible  with [Zap Logger](https://github.com/uber-go/zap). But i'm
 ## Installation
 
 ```shell
-go install github.com/senior-sigan/pretty-dummy-json-logs
+go install github.com/senior-sigan/prettylog@latest
 ```
