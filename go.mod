@@ -1,4 +1,4 @@
-module github.com/senior-sigan/pretty-dummy-json-logs
+module github.com/senior-sigan/prettylog
 
 go 1.22.0
 

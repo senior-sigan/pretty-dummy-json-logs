@@ -5,7 +5,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/senior-sigan/pretty-dummy-json-logs/internal"
+	"github.com/senior-sigan/prettylog/internal"
 )
 
 func main() {
