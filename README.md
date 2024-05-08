@@ -11,11 +11,15 @@ Should be compatible  with [Zap Logger](https://github.com/uber-go/zap). But i'm
 ## Usage
 
 ```shell
-./your-programm | pdl
+./your-programm | prettylog
 ```
+
+In fish you have to use this `&|` for pipes.
 
 ## Installation
 
 ```shell
 go install github.com/senior-sigan/prettylog@latest
 ```
+
+Check that you have `go/bin` in your PATH
